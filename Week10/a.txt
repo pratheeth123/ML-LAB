@@ -1,0 +1,2 @@
+for i, name in enumerate(data.target_names):
+    print(i, "->", name)
